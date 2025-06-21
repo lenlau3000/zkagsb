@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "lenlau300"         # 用户名
 UUID = "25bef35f-4c0f-4fb7-a3f4-95c1cd62f7b5"                     # UUID，留空则自动生成
 PORT = 27099                   # Vmess端口，留空或0则自动生成
-DOMAIN = "free.testlrj.ddns-ip.net"                   # 域名，留空则自动获取
+DOMAIN = "stri.cxty.de"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiNmZkYzhjOGE4NWUzYWQ1YjYxMzM5OWI3ZWMzN2U5YjIiLCJ0IjoiNTQ4ZjVhZGMtM2VmZi00MzMzLWI1YTUtNmIxM2E3ZDI3NGVmIiwicyI6Ik9EUmpPVFF5WldJdFlXRm1ZeTAwTTJFMExUZzFNak10TkRSak5HSmtOV1ZoWWpReSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
